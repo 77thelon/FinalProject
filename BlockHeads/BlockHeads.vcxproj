@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{189768A0-48ED-4694-836E-323F8BB4F83D}</ProjectGuid>
-    <RootNamespace>FinalProjectAgastya</RootNamespace>
+    <ProjectGuid>{81E59334-4EC8-46E5-B620-04A016138C3B}</ProjectGuid>
+    <RootNamespace>BlockHeads</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>FinalProjectAgastya</ProjectName>
+    <ProjectName>BlockHeads</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
